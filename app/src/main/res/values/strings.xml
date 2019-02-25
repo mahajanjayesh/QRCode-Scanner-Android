@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">QR Code Scanner</string>
     <string name="scan">scan code</string>
+    <string name="retrieved_data">Retrieved Data</string>
 </resources>
